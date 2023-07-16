@@ -29,3 +29,17 @@ To get started with the temperature controller PCB design, follow these steps:
 3. Review the design and make any necessary modifications.
 4. Export the design files to your preferred format.
 5. Send the design files to a PCB manufacturer for production.
+
+
+<h1>Contributing</h1>
+
+If you would like to contribute to the LED controller PCB design, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Submit a pull request.
+
+<h1>License</h1>
+
+This LED controller PCB design exercise is licensed under the [MIT License ↗](https://opensource.org/license/mit/). See the LICENSE file for more information.
