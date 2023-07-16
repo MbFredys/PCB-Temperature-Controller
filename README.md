@@ -9,7 +9,9 @@ This is a temperature controller PCB design that allows for precise temperature 
 5. 📶 Bluetooth communication.
 6. 🌡️ Allows for the use of thermocouple and PT100 type sensors.
 
+
 <h1>Usage</h1>
+
 To use the temperature controller, follow these steps:
 
 1. Connect the temperature controller to a power source using a 100-240V AC power supply.
@@ -17,7 +19,9 @@ To use the temperature controller, follow these steps:
 3. Set the desired temperature using the up and down buttons.
 4. Monitor the current temperature on the display.
 
+
 <h1>Getting Started</h1>
+
 To get started with the temperature controller PCB design, follow these steps:
 
 1. Clone this repository to your local machine.
