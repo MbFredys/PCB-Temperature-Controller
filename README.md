@@ -1,5 +1,5 @@
 <h1>Temperature Controller</h1>
-[![License: CERN-OHL-W-2.0](https://img.shields.io/badge/license-CERN--OHL--W%202.0-blue.svg)](https://ohwr.org/projects/cern-ohl/wikis/CERN-OHL-version-2)
+<a href="https://ohwr.org/projects/cern-ohl/wikis/CERN-OHL-version-2" target="_blank"> <img src="https://img.shields.io/badge/license-CERN--OHL--W%202.0-blue.svg" alt="License: CERN-OHL-W-2.0"> </a>
 
 This is a temperature controller PCB design that allows for precise temperature control with the following features:
 
