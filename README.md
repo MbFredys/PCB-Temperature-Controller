@@ -43,4 +43,4 @@ If you would like to contribute to the LED controller PCB design, please follow 
 
 <h1>License</h1>
 This project is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W-2.0).
-See the [CERN-OHL-W-2.0 ↗](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt) file for more information.
+See the <a href="https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt" target="_blank">CERN-OHL-W-2.0 ↗</a> file for more information.</p>
